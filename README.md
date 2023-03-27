@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)
 <!--
 **MohammadFaisal9354/MohammadFaisal9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
