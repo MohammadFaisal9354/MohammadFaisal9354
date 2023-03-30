@@ -1,6 +1,6 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)
 - 🌱 I’m currently learning MERN Stack
 - - 📫 How to reach me: fisalkhan9354@gmail.com
 - - 🤟 Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)
 -->
-Personalized
