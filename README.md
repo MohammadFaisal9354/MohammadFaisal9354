@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MERN Stack
 - - 📫 How to reach me: fisalkhan9354@gmail.com
-- - 🤟 Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
+- - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 
 <!--
 **MohammadFaisal9354/MohammadFaisal9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
