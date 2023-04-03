@@ -54,15 +54,6 @@
 </div>
 <hr>
 <h3 align="left">Some more Information:</h3>
-    
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)   -->
-<!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&langs_count=6" /></a> -->
-
-<!-- <p align="center" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsoni2843&layout=compact&langs_count=8&theme=react" alt="rsoni2843" /></p> -->
-<!-- <div> span</div> -->
-
-<!-- &nbsp; -->
-<!-- <p align="center" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en&theme=tokyonight" alt="rsoni2843" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&theme=tokyonight" alt="faisalkhan9354" /></p>
     
@@ -78,16 +69,9 @@
 
 
 
-
-
-
-
-
 <!--
 **MohammadFaisal9354/MohammadFaisal9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
