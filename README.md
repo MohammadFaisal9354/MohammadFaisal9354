@@ -2,9 +2,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 
 - 🌱 I’m currently learning MERN Stack
-- - 📫 How to reach me: fisalkhan9354@gmail.com
-- - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
-- - 📁 Portfolio:  https://mohammadfaisalportfolio.000webhostapp.com/
+- 📫 How to reach me: fisalkhan9354@gmail.com
+- ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
+- 📁 Portfolio:  https://mohammadfaisalportfolio.000webhostapp.com/
 <!--
 **MohammadFaisal9354/MohammadFaisal9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
