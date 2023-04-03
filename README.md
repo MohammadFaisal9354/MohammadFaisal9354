@@ -53,7 +53,7 @@
 
 </div>
 <hr>
-<h3 align="left">Some more Information:</h3>
+<h3 align="left">Fun:</h3>
 
 
     
