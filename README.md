@@ -55,7 +55,7 @@
 <hr>
 <h3 align="left">Some more Information:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&theme=tokyonight" alt="faisalkhan9354" /></p>
+
     
 <div align="center">
   <h3 align="center">Here's a random developer joke for you.</h3>
@@ -81,5 +81,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📁 Portfolio:  https://mohammadfaisalportfolio.000webhostapp.com/
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)   or 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&theme=tokyonight" alt="faisalkhan9354" /></p>
+both above 2 working fine
 -->
