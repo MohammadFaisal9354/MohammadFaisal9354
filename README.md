@@ -20,8 +20,8 @@
     <a href="http://rsoni2843.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rsoni2843.github.io" />
     </a>
-    <a title="rsoni2843@gmail.com" href="mailto:rsoni2843@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rsoni2843@gmail.com" />
+    <a title="faisalkhan9354@gmail.com" href="mailto:faisalkhan9354@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="faisalkhan9354@gmail.com" />
     </a>
 </p>
 
@@ -54,16 +54,17 @@
 </div>
 <hr>
 <h3 align="left">Some more Information:</h3>
+    
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rsoni2843)   -->
 <!-- <a href="https://github.com/rsoni2843/github-readme-activity-graph"><img alt="rsoni2843 Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&langs_count=6" /></a> -->
 
-<p align="center" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsoni2843&layout=compact&langs_count=8&theme=react" alt="rsoni2843" /></p>
+<!-- <p align="center" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsoni2843&layout=compact&langs_count=8&theme=react" alt="rsoni2843" /></p> -->
 <!-- <div> span</div> -->
 
 <!-- &nbsp; -->
-<p align="center" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en&theme=tokyonight" alt="rsoni2843" /></p>
+<!-- <p align="center" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=rsoni2843&show_icons=true&locale=en&theme=tokyonight" alt="rsoni2843" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsoni2843&theme=tokyonight" alt="rsoni2843" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&theme=tokyonight" alt="faisalkhan9354" /></p>
     
 <div align="center">
   <h3 align="center">Here's a random developer joke for you.</h3>
