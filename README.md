@@ -8,6 +8,7 @@
 - 📫 How to reach me: **faislkhan9354@gmail.com**
 - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 - 📁 Portfolio:  https://mohammadfaisalportfolio.000webhostapp.com/
+- - ⚡ Fun fact **I am Web_Developer 😅**
 <!--
 **MohammadFaisal9354/MohammadFaisal9354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
