@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
+<p align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)</p>
 - 👨‍🎓 I am Mern Full-Stack Intern at **[Inventics](https://inventics.tech/)** 
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
