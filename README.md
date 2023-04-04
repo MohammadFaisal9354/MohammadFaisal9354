@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohammadfaisalkhan/" targer="_blank">
+    <a href="https://www.linkedin.com/in/mohammadfaisalkhan/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hemant-aher-197814b7/" />
     </a>
     <a href="https://mohammadfaisalportfolio.000webhostapp.com/">
