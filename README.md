@@ -17,7 +17,7 @@
 
 
 </br>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohammadfaisalkhan/" target="_blank">
