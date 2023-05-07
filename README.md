@@ -1,6 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadFaisal9354&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadFaisal9354" /> </p>
+
 <h2>Hi there 👋</h2></br>
 <p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MohammadFaisal9354" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=dark" alt="MohammadFaisal9354" />
 </p>
 
 - 👨‍🎓 I am Mern Full-Stack Intern at **[DentalKart](https://www.dentalkart.com/)** 
