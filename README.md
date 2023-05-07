@@ -60,16 +60,15 @@
 
 </div>
 <hr>
-<br>
 <div align="center">
 <h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
 </div>
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammadFaisal9354&column=-1&margin-w=5" alt="MohammadFaisal9354" /></a>
 </div>
+
 <hr>
 <h3 align="left">Fun:</h3>
-
 
     
 <div align="center">
