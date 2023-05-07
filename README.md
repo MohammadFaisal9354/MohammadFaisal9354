@@ -68,6 +68,14 @@
 </div>
 
 <hr>
+<div align="center">
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<div align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+
+<hr>
 <h3 align="left">Fun:</h3>
 
     
