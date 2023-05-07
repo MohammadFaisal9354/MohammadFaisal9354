@@ -8,7 +8,7 @@
 - 📫 How to reach me: **faislkhan9354@gmail.com**
 - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 - ⚡ Fun fact **I am Web_Developer 😅**
-<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p></div>
+<div><img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </div>
 <div>
 
 <hr>
