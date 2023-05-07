@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
-- 👨‍🎓 I am Mern Full-Stack Intern at **[Inventics](https://inventics.tech/)** 
+- 👨‍🎓 I am Mern Full-Stack Intern at **[DentalKart](https://www.dentalkart.com/)** 
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1716vRnJiLkq1VgZRcxKWEpew6Qta2Blr/view?usp=share_link)**
