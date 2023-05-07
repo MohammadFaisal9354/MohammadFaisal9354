@@ -1,6 +1,4 @@
-
-<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p></div>
-Hi there 👋</br>
+<h2>Hi there 👋</h2></br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 - 👨‍🎓 I am Mern Full-Stack Intern at **[DentalKart](https://www.dentalkart.com/)** 
 - 🌱 I’m currently learning MERN Stack
@@ -10,6 +8,7 @@ Hi there 👋</br>
 - 📫 How to reach me: **faislkhan9354@gmail.com**
 - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 - ⚡ Fun fact **I am Web_Developer 😅**
+<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p></div>
 <div>
 
 <hr>
