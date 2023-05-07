@@ -1,5 +1,8 @@
 <h2>Hi there 👋</h2></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MohammadFaisal9354" />
+</p>
+
 - 👨‍🎓 I am Mern Full-Stack Intern at **[DentalKart](https://www.dentalkart.com/)** 
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
@@ -86,4 +89,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354)](https://git.io/streak-stats)   or 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&theme=tokyonight" alt="faisalkhan9354" /></p>
 both above 2 working fine
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 -->
