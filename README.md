@@ -2,7 +2,7 @@
 
 <h2>Hi there 👋</h2></br>
 <p align='left'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=efefef&bg_color=0e75b6" alt="MohammadFaisal9354" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=efefef&bg_color=111111" alt="MohammadFaisal9354" />
 </p>
 </br>
 
