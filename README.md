@@ -60,6 +60,11 @@
 
 </div>
 <hr>
+
+<div align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammadFaisal9354&column=-1&margin-w=5" alt="MohammadFaisal9354" /></a>
+</div>
+<hr>
 <h3 align="left">Fun:</h3>
 
 
