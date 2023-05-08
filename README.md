@@ -15,23 +15,19 @@
 - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 - ⚡ Fun fact **I am Web_Developer 😅**
 
-
-</br>
 <hr>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-   <a href="https://www.linkedin.com/in/mohammadfaisalkhan/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"        alt="https://www.linkedin.com/in/mohammadfaisalkhan/" />
-  </a>
-
-    <a href="https://mohammadfaisalportfolio.000webhostapp.com/" target="_blank">
+<p align="left">
+    <a href="https://www.linkedin.com/in/mohammadfaisalkhan/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohammadfaisalkhan/" />
+    </a>
+    <a href="https://mohammadfaisalportfolio.000webhostapp.com/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohammadfaisalportfolio.000webhostapp.com/" />
     </a>
-    <a title="faisalkhan9354@gmail.com" href="mailto:faisalkhan9354@gmail.com" target="_blank">
+    <a title="faisalkhan9354@gmail.com" href="mailto:faisalkhan9354@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="faisalkhan9354@gmail.com" />
     </a>
 </p>
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
