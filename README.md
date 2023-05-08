@@ -1,8 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadFaisal9354&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadFaisal9354" /> </p>
 
-<h2>Hi there 👋</h2></br>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/> Hi, I’m  <a href="https://github.com/MohammadFaisal9354"> Mohammad Faisal </a></h2>
 <p align='left'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=efefef&bg_color=111111" alt="MohammadFaisal9354" />
+  <h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, ReactJS, Node Js, Express js, Nest js and other libraries and frameworks.</h3>
+  <p><img align="right" width="50%" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt=""/></p>
+  
 </p>
 </br>
 
@@ -15,6 +17,12 @@
 - ✨ Linkedin :  https://www.linkedin.com/in/mohammadfaisalkhan
 - ⚡ Fun fact **I am Web_Developer 😅**
 
+</br>
+<hr>
+<h2>Current Streak and Total Contributions : </h2>
+<p align='center'>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=efefef&bg_color=111111" alt="MohammadFaisal9354" />
+</p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
