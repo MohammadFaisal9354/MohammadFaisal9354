@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadFaisal9354&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadFaisal9354" /> </p>
+<p align="left"> 
+<!--   <img src="https://komarev.com/ghpvc/?username=MohammadFaisal9354&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadFaisal9354" />  -->
+</p>
 
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/> Hi, I’m  <a href="https://github.com/MohammadFaisal9354"> Mohammad Faisal </a></h2>
 <p align='left'>
