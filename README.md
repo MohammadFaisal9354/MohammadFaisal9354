@@ -11,7 +11,7 @@
 </br>
 
 - 👨‍🎓 I am Mern Full-Stack Intern at **[DentalKart](https://www.dentalkart.com/)** 
-- 🌱 I’m currently working on React with TypeScript and Nest js that is an Node js Framework.
+- 🌱 I’m currently working on React with TypeScript and Nest that is Node js Framework.
 - 💬 Ask me about **JavaScript, CSS, React, & DSA etc*
 - 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1716vRnJiLkq1VgZRcxKWEpew6Qta2Blr/view?usp=share_link)**
 -  👨‍💻 All of my projects are available at **[(My Portfolio)](https://mohammadfaisalportfolio.000webhostapp.com/)**
