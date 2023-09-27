@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=MohammadFaisal9354&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadFaisal9354" /> 
 </p>
 
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/> Hi, I am  <a href="https://github.com/MohammadFaisal9354">Mohammad Faisal </a></h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/><span> Hi, I am  <a href="https://github.com/MohammadFaisal9354">Mohammad Faisal </a> </span></h2>
 <p align='left'>
   <h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, ReactJS, Node Js, Express js, Nest js and other libraries and frameworks.</h3>
   <p><img align="right" width="50%" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt=""/></p>
