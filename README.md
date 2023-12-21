@@ -5,7 +5,7 @@
 <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/><h2> Hi, I am  Mohammad Faisal </h2></p>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Developer)](https://github.com/ziadeleraky/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Developer;Backend+Developer)](https://github.com/MohammadFaisal9354/)
 
 </div>
 <p align='left'>
