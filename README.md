@@ -29,7 +29,16 @@
 <h2>Current Streak and Total Contributions : </h2>
 <p align='center'>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFaisal9354&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=efefef&bg_color=111111" alt="MohammadFaisal9354" />
+
 </p>
+<hr>
+<h2>Languages : </h2>
+<div align="center">
+  <a href="https://github.com/ziadeleraky">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MohammadFaisal9354&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </div>
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
