@@ -55,8 +55,7 @@
     <img src ="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"  alt="typescript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"   alt="reactjs" />
     <img src="https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=ea2845"   alt="nestjs" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"   alt="redux" />
-<!--   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"  alt="chakra-ui"/> -->
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"   alt="redux" />   
     <img src = "https://img.shields.io/badge/zendesk-%23323330.svg?style=for-the-badge&logo=zendesk&logoColor=green"  alt="zendesk-garden"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"  alt="restapi"/>
   
@@ -125,3 +124,7 @@ both above 2 working fine
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 -->
+
+
+
+<!--   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"  alt="chakra-ui"/> -->
