@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"   alt="reactjs" />
     <img src="https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=ea2845"   alt="nestjs" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"   alt="redux" />   
-    <img src = "https://img.shields.io/badge/zendesk-%23323330.svg?style=for-the-badge&logo=zendesk&logoColor=green"  alt="zendesk-garden"/>
+    <img src = "https://img.shields.io/badge/Zendesk Garden-%23323330.svg?style=for-the-badge&logo=zendesk&logoColor=green"  alt="zendesk-garden"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"  alt="restapi"/>
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  alt="nodejs" />
