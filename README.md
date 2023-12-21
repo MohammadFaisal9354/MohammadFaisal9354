@@ -134,6 +134,10 @@ both above 2 working fine
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadFaisal9354&theme=dark)](https://git.io/streak-stats)
 -->
 
+<!--
+<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadFaisal9354&show_icons=true&theme=radical&count_private=true">
+-->
+ 
 
 
 <!--   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"  alt="chakra-ui"/> -->
