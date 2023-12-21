@@ -3,6 +3,7 @@
 </p>
 
 <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="25px" height="25px"/><h2> Hi, I am  Mohammad Faisal </h2></p>
+<p>https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Developer;Backend+Developer</p>
 <p align='left'>
   <h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, ReactJS, Node Js, Express js, Nest js and other libraries and frameworks.</h3>
   <p><img align="right" width="50%" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt=""/></p>
