@@ -92,8 +92,6 @@
 
 <hr>
 
-
-<hr>
 <h3 align="left">Fun:</h3>
 
     
