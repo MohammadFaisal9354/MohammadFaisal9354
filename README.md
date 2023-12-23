@@ -91,11 +91,6 @@
 </div>
 
 <hr>
-<div align="center">
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<div align="center">
-  <img src="https://github.com/MohammadFaisal9354/MohammadFaisal9354/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
 
 
 <hr>
